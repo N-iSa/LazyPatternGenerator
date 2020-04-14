@@ -9,3 +9,14 @@ F:\ProgrammingCorner\ORMGenerator\obj\Debug\netcoreapp3.1\ORMGenerator.AssemblyI
 F:\ProgrammingCorner\ORMGenerator\obj\Debug\netcoreapp3.1\ORMGenerator.AssemblyInfo.cs
 F:\ProgrammingCorner\ORMGenerator\obj\Debug\netcoreapp3.1\ORMGenerator.dll
 F:\ProgrammingCorner\ORMGenerator\obj\Debug\netcoreapp3.1\ORMGenerator.pdb
+F:\ProgrammingCorner\LazyPatternGenerator\bin\Debug\netcoreapp3.1\ORMGenerator.exe
+F:\ProgrammingCorner\LazyPatternGenerator\bin\Debug\netcoreapp3.1\ORMGenerator.deps.json
+F:\ProgrammingCorner\LazyPatternGenerator\bin\Debug\netcoreapp3.1\ORMGenerator.runtimeconfig.json
+F:\ProgrammingCorner\LazyPatternGenerator\bin\Debug\netcoreapp3.1\ORMGenerator.runtimeconfig.dev.json
+F:\ProgrammingCorner\LazyPatternGenerator\bin\Debug\netcoreapp3.1\ORMGenerator.dll
+F:\ProgrammingCorner\LazyPatternGenerator\bin\Debug\netcoreapp3.1\ORMGenerator.pdb
+F:\ProgrammingCorner\LazyPatternGenerator\obj\Debug\netcoreapp3.1\ORMGenerator.csprojAssemblyReference.cache
+F:\ProgrammingCorner\LazyPatternGenerator\obj\Debug\netcoreapp3.1\ORMGenerator.AssemblyInfoInputs.cache
+F:\ProgrammingCorner\LazyPatternGenerator\obj\Debug\netcoreapp3.1\ORMGenerator.AssemblyInfo.cs
+F:\ProgrammingCorner\LazyPatternGenerator\obj\Debug\netcoreapp3.1\ORMGenerator.dll
+F:\ProgrammingCorner\LazyPatternGenerator\obj\Debug\netcoreapp3.1\ORMGenerator.pdb

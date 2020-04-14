@@ -25,7 +25,7 @@ namespace ORMGenerator
             this._lstGroups = new List<Group>();
             this._bsGroups = new BindingSource();
 
-            //this.AddTestValues();
+            this.AddTestValues();
             this.loadTemplatenames();
 
             this._bsGroups.DataSource = this._lstGroups;

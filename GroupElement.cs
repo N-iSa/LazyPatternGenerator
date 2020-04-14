@@ -7,7 +7,7 @@ namespace ORMGenerator
 
         public GroupElement()
         {
-            
+            this.Type = "string";
         }
         public GroupElement(string strKey, string strType)
         {

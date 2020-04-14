@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "F:\\ProgrammingCorner\\ORMGenerator\\ORMGenerator.csproj": {}
+    "F:\\ProgrammingCorner\\LazyPatternGenerator\\ORMGenerator.csproj": {}
   },
   "projects": {
-    "F:\\ProgrammingCorner\\ORMGenerator\\ORMGenerator.csproj": {
+    "F:\\ProgrammingCorner\\LazyPatternGenerator\\ORMGenerator.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "F:\\ProgrammingCorner\\ORMGenerator\\ORMGenerator.csproj",
+        "projectUniqueName": "F:\\ProgrammingCorner\\LazyPatternGenerator\\ORMGenerator.csproj",
         "projectName": "ORMGenerator",
-        "projectPath": "F:\\ProgrammingCorner\\ORMGenerator\\ORMGenerator.csproj",
+        "projectPath": "F:\\ProgrammingCorner\\LazyPatternGenerator\\ORMGenerator.csproj",
         "packagesPath": "C:\\Users\\Säftchen\\.nuget\\packages\\",
-        "outputPath": "F:\\ProgrammingCorner\\ORMGenerator\\obj\\",
+        "outputPath": "F:\\ProgrammingCorner\\LazyPatternGenerator\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\",
